@@ -1,5 +1,4 @@
-#include <WProgram.h>
-#include <menu.h>
+#include "menu.h"
 #include <avr/pgmspace.h>
 
 menu::menu(byte pageSize, byte maxOpts) {

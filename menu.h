@@ -1,7 +1,7 @@
 #ifndef _MENU_H
 #define _MENU_H
 
-#include <WProgram.h>
+#include <Arduino.h>
 
 typedef struct {
   char name[21];
